@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523651324615",
+    "project_id": "zerdatestapp",
+    "storage_bucket": "zerdatestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523651324615:android:22e8d26902df899900fce2",
+        "android_client_info": {
+          "package_name": "com.zerdasoftware.internetnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523651324615-r84ptvaoogm00o3578emq739igvi18p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajcyn3AvlHF9iiZ-y8Zj3skx6M_on4Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523651324615-r84ptvaoogm00o3578emq739igvi18p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
